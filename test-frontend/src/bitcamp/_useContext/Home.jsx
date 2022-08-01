@@ -4,7 +4,7 @@ import { ThemeContext } from './context/ThemeContext';
 import Page from './pages/Page'
 
 function Home() {
-  const[isDark,setIsDark]=useState(true);
+  const[isDark,setIsDark]=useState(false);
 
   console.log(isDark);
 

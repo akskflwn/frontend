@@ -1,0 +1,18 @@
+nav * {
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+a:visited {
+    text-decoration: none;
+    color:#F7EDDB;   
+}
+
+a:hover {
+    text-decoration: none;
+    color: #CDF0EA;
+}
+
+nav .active{
+    color:#DFE8CC;
+}
